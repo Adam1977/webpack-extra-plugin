@@ -15,9 +15,9 @@
   "author": "Adam",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Adam1977/webpack-extra-plugin.git/issues"
+    "url": "https://github.com/Adam1977/webpack-extra-plugin/issues"
   },
-  "homepage": "https://github.com/Adam1977/webpack-extra-plugin.git#readme",
+  "homepage": "https://github.com/Adam1977/webpack-extra-plugin#readme",
   "dependencies": {
     "chalk": "^4.1.2"
   }
